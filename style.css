@@ -236,6 +236,7 @@ body {
   color: white;
   background-color: var(--darkgreen);
   box-shadow: var(--shadow);
+  font-size:1rem;
 }
 .info a:hover{
   color: white;
